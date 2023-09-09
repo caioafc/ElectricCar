@@ -9,4 +9,5 @@
     <string name="price_kwh">Price kWh</string>
     <string name="km_traveled">Km traveled</string>
     <string name="calculate">Calculate</string>
+    <string name="calculate_autonomy">Calculate Autonomy</string>
 </resources>
