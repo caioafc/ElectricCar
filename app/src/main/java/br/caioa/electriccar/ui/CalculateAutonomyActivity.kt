@@ -1,4 +1,4 @@
-package br.caioa.electriccar.presentation
+package br.caioa.electriccar.ui
 
 import android.os.Bundle
 import android.widget.Button
