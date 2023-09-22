@@ -1,14 +1,9 @@
 package br.caioa.electriccar.ui
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
 import br.caioa.electriccar.R
-import br.caioa.electriccar.data.CarFactory
-import br.caioa.electriccar.ui.adapter.CarAdapter
 import br.caioa.electriccar.ui.adapter.TabsAdapter
 import com.google.android.material.tabs.TabLayout
 

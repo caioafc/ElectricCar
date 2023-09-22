@@ -10,4 +10,8 @@
     <string name="km_traveled">Km traveled</string>
     <string name="calculate">Calculate</string>
     <string name="calculate_autonomy">Calculate Autonomy</string>
+    <string name="no_connection">Ops, unavailable connection :(</string>
+    <string name="response_error">Something got wrong, please try again later</string>
+    <string name="saved_calc">saved_calc</string>
+
 </resources>
